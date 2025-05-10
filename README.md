@@ -1,29 +1,54 @@
-# Regulatory_Compliance_Analysis
-<a id = Section1></a>
-# **1. Introduction**
+Regulatory Compliance Analysis: Consumer Financial Complaints
+<a id="Section1"></a>
 
-Accoring to the <a href = "https://files.consumerfinance.gov/f/documents/cfpb_consumer-response-annual-report_2018.pdf">Consumer Response Annual Report</a> of **Consumer Financical Protection Bureau** (CFPB), the Bureau **sent**
-approximately 264,100 (or 80%) of these **complaints to companies for review** and **response**, referred 14% of complaints received to other **regulatory agencies**, and found 4% to be incomplete. At the end of 2018, 0.4% of complaints were pending with the consumer and 1% were pending with Bureau.
+1. Introduction
+The Consumer Financial Protection Bureau (CFPB) plays a critical role in safeguarding consumers by addressing financial complaints. According to their 2018 Consumer Response Annual Report:
 
-**<center>COMPLAINT OUTCOMES IN 2018<center></center>**
-<center><img src = "https://raw.githubusercontent.com/insaid2018/Domain_Case_Studies/master/Finance/Customer%20Compalints%20Analysis%201.png"></center>
+80% (264,100 complaints) were sent to companies for response.
 
-Companies **responded to 96% of the approximately 264,100** complaints that the **Bureau sent** to them for response in 2018. **Companies** confirmed a commercial relationship with, and **provided responses to**, consumers in approximately **91% of these complaints**. 
+14% were referred to other agencies.
 
-**<center>HOW COMPANIES HAVE RESPONDED TO CONSUMER COMPLAINTS</center>**
-<center><img src = "https://raw.githubusercontent.com/insaid2018/Domain_Case_Studies/master/Finance/Customer%20Complaints%20Analysis%202.png"></center>
-<a id = Section2></a>
-# **2. Problem Statement**
+4% were deemed incomplete.
 
-The problem here is to **analyze the complaints** of the consumers and **identify the category** of product it belongs to and then **shares complaint data** to level the playing field and **empower consumers** to take more control over their financial lives.
+1.4% remained pending (0.4% with consumers, 1% with the Bureau).
 
-<center><img src = "https://raw.githubusercontent.com/insaid2018/Domain_Case_Studies/master/Finance/Customer%20Complaints%20Analysis%203.png"></center>
+<center>COMPLAINT OUTCOMES IN 2018</center>
 
-**<h3>Scenario:</h3>**
+<center><img src="https://raw.githubusercontent.com/insaid2018/Domain_Case_Studies/master/Finance/Customer%20Compalints%20Analysis%201.png" alt="Complaint Outcomes 2018"></center>
+Company Response Rates (2018):
 
-One of the **primary functions** of the Bureau of Consumer Financial Protection (CFPB or Bureau) is **collecting, investigating, and responding** to consumer complaints. They **handles consumer complaints, and analyzes and shares complaint data** to level the playing field and empower consumers to take more control over their financial lives.
+96% of complaints received responses.
 
-Like a cop on the beat, CFPB is **responsible for rule-making, supervision, and enforcement** of Federal consumer financial protection laws and restricting unfair, deceptive, or abusive acts or practices against consumers.
+91% included confirmation of a commercial relationship and resolution details.
+
+<center>COMPANY RESPONSE TO COMPLAINTS</center>
+
+<center><img src="https://raw.githubusercontent.com/insaid2018/Domain_Case_Studies/master/Finance/Customer%20Complaints%20Analysis%202.png" alt="Company Responses"></center>
+<a id="Section2"></a>
+
+2. Problem Statement
+Objective:
+Analyze consumer complaints to:
+
+Categorize complaints by financial product.
+
+Identify patterns in company responses.
+
+Empower consumers through transparent data sharing.
+
+<center><img src="https://raw.githubusercontent.com/insaid2018/Domain_Case_Studies/master/Finance/Customer%20Complaints%20Analysis%203.png" alt="Complaint Analysis Flow"></center>
+CFPB's Role:
+Primary Functions:
+
+Complaint collection, investigation, and resolution.
+
+Data analysis to promote fair financial practices.
+
+Regulatory Authority:
+
+Enforces laws against deceptive/abusive practices.
+
+Oversees compliance for mortgages, credit cards, loans, etc.
 
 The **target feature** in the acquired data set is **Product** and it's values are:
 
