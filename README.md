@@ -82,5 +82,17 @@ Download zip file
 https://files.consumerfinance.gov/ccdb/complaints.csv.zip
 
 
+Conclusion
+An in-depth analysis was performed on the data provided by CFPB.
+
+The features were investigated, and customer sentiments towards the product were chosen for analysis to categorize complaints under the respective categories.
+
+Model development was performed using various models like Random Forest, Multinomial Naive Bayes, and Logistic Regression.
+
+At baseline, these models performed poorly. Therefore, the minority classes were oversampled using SMOTE.
+
+After oversampling, the models were rebuilt and it was found that Logistic Regression outperformed all other models in terms of accuracy and precision
+
+
 
 
