@@ -1,5 +1,5 @@
 # Regulatory_Compliance_Analysis
-<a id = Section1></a>
+The problem here is to analyze the complaints of the consumers and identify the category of product it belongs to and then share complaint data to level the playing field and empower consumers to take more control over their financial lives.
 # **1. Introduction**
 
 According to the Consumer Response Annual Report of the Consumer Financial Protection Bureau (CFPB), the Bureau sent approximately 264,100 (or 80%) of these complaints to companies for review and response, referred 14% of complaints received to other regulatory agencies, and found 4% to be incomplete. At the end of 2018, 0.4% of complaints were pending with the consumer and 1% were pending with the Bureau
